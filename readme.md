@@ -72,6 +72,9 @@ This project builds an end-to-end pricing optimization system that:
 ### Feature Importance (SHAP)
 
 ![SHAP Summary](assets/shap_summary.png)
+<p align="center">
+  <img src="assets/shap_summary.png" alt="SHAP Summary" width="700">
+</p>
 
 ### Feature Impact
 
