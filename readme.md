@@ -4,9 +4,6 @@
 
 An ML-powered pricing assistant that recommends optimal prices by simulating demand and revenue, helping businesses make data-driven pricing decisions.
 
-## 📸 Preview
-
-![Revenue Curve](assets/revenue_curve.png)
 
 ## 🎯 Problem Statement
 
