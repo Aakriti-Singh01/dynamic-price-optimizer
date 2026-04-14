@@ -3,6 +3,7 @@
 ## 🚀 Overview
 
 An ML-powered pricing assistant that recommends optimal prices by simulating demand and revenue, helping businesses make data-driven pricing decisions.
+<img width="1729" height="969" alt="image" src="https://github.com/user-attachments/assets/999345b5-6b5e-4723-8abd-8ae2a7db2c91" />
 
 
 ## 🎯 Problem Statement
