@@ -73,7 +73,7 @@ This project builds an end-to-end pricing optimization system that:
 
 ![SHAP Summary](assets/shap_summary.png)
 <p align="center">
-  <img src="assets/shap_summary.png" alt="SHAP Summary" width="700">
+  <img src="assets/shap_summary.png" alt="SHAP Summary"  hieght = "300" width="300">
 </p>
 
 ### Feature Impact
