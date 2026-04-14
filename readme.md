@@ -70,16 +70,18 @@ This project builds an end-to-end pricing optimization system that:
 ## 📊 Model Insights
 
 ### Feature Importance (SHAP)
-
-![SHAP Summary](assets/shap_summary.png)
 <p align="center">
-  <img src="assets/shap_summary.png" alt="SHAP Summary"  hieght = "300" width="300">
+  <img src="assets/shap_summary.png" alt="SHAP Summary"  hieght = "400" width="400">
 </p>
 
 ### Feature Impact
+<p align="center">
+  <img src="assets/shap_bar.png" alt="SHAP Summary"  hieght = "400" width="400">
+</p>
+<p align="center">
+  <img src="assets/shap_force.png" alt="SHAP Summary"  hieght = "400" width="400">
+</p>
 
-![SHAP Bar](assets/shap_bar.png)
-![SHAP Force](assets/shap_force.png)
 
 ## 📌 How It Works
 
