@@ -67,8 +67,6 @@ This project builds an end-to-end pricing optimization system that:
 
 ## 📊 Model Insights
 
-## 📊 Model Insights
-
 <p align="center">
   <table>
     <tr>
