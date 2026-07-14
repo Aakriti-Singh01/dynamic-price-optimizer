@@ -3,7 +3,7 @@
 ## 🚀 Overview
 
 An ML-powered pricing assistant that recommends optimal prices by simulating demand and revenue, helping businesses make data-driven pricing decisions.
-<img width="1729" height="969" alt="image" src="https://github.com/user-attachments/assets/999345b5-6b5e-4723-8abd-8ae2a7db2c91" />
+
 
 
 ## 🎯 Problem Statement
@@ -206,6 +206,12 @@ This project demonstrates how machine learning can transform pricing into a stra
 - ✅ Modular, production-ready code
 
 ## 🎯 Final Outcome
+
+<img width="1873" height="815" alt="image" src="https://github.com/user-attachments/assets/54044cba-0acd-42a0-9cab-76d1bdcf9e7d" />
+<img width="1787" height="795" alt="image" src="https://github.com/user-attachments/assets/67ad0661-06d2-4fc3-9b16-9937704a1a83" />
+<img width="1132" height="786" alt="image" src="https://github.com/user-attachments/assets/84ae6197-dbaf-4ebf-97c7-689f0d95d3d6" />
+
+
 
 **👉 Pricing Decision Assistant that helps businesses make smarter, data-driven pricing decisions.**
 
