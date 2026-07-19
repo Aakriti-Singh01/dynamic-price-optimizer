@@ -3,8 +3,7 @@
 ## 🚀 Overview
 
 An ML-powered pricing assistant that recommends optimal prices by simulating demand and revenue, helping businesses make data-driven pricing decisions.
-
-
+🔗 Live App: https://aakriti-singh01-dynamic-price-optimizer-appstreamlit-app-w2uwq2.streamlit.app 📦 Repository: https://github.com/Aakriti-Singh01/dynamic-price-optimizer
 
 ## 🎯 Problem Statement
 
